@@ -6,6 +6,7 @@
 2. [Project Overview](#project-overview)
 3. [Tools Used](#tools-used)
 4. [Project Steps](#project-steps)
+5. [Dashboard](#Dashboard)
 
 ## Introduction
 
