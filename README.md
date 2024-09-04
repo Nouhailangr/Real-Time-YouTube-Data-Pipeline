@@ -1,4 +1,4 @@
 # Real-Time-YouTube-Data-Pipeline
 
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/a88f03f6-27e4-43c3-8309-be46cec1a3fb)
+![YouTube_RealTime_Pipeline_Diagram](https://github.com/user-attachments/assets/fbbbc6c1-a2b7-4420-bd11-fead53fc4272)
