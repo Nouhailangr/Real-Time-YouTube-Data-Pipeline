@@ -4,7 +4,7 @@ from cassandra.cluster import Cluster
 import json
 
 # Initialize YouTube API
-YOUTUBE_API_KEY = 'AIzaSyDnsYzp1PCuhu5NKvtZW8QGzyFxveoWkt4' 
+YOUTUBE_API_KEY = '**************************' 
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 # Kafka settings
